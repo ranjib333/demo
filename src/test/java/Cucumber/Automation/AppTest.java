@@ -18,5 +18,6 @@ public class AppTest
         assertTrue( true );
         
         System.err.println("jhdkjhdksbd");
+       System.out.println("jkafbhnhhsbbdndjjdjjddfjddjhfdklfdmklcknjcxknknl");
     }
 }
